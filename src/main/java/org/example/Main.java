@@ -8,7 +8,7 @@ public class Main {
     }
 
     private static void mainMethodShowMessage() {
-        System.out.println("Hello able QA coures");
+        System.out.println("Hello able QA coures.Мой первый тест");
     }
 
     private static void mainMethodShowInfo() {
