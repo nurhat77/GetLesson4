@@ -4,6 +4,7 @@ public class Main {
     public static void main(String[] args) {
         mainMethodShowMessage();
         mainMethodShowInfo();
+        mainMethodShow();
     }
 
     private static void mainMethodShowMessage() {
@@ -11,6 +12,9 @@ public class Main {
     }
 
     private static void mainMethodShowInfo() {
-        System.out.println("Lets learn Git!");
+        System.out.println("Lets learn Git, это будет весело!!!");
+    }
+    static void mainMethodShow() {
+        System.out.println("Nurhat test");
     }
 }
